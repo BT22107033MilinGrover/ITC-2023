@@ -7,8 +7,4 @@ if(no_of_seconds<60):
 else:
     e=no_of_seconds//60
     f=no_of_seconds%60
-    
-  
-
-
-   print(e,"minutes", "and", f,"seconds")
+   print( e ,"minutes", "and", f , "seconds"
